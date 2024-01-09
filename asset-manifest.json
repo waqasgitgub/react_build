@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.666ef79d.css",
+    "main.js": "/static/js/main.22b9c835.js",
+    "static/media/netEarn.pdf": "/static/media/netEarn.adbab0314cedecdff31d.pdf",
+    "static/media/2019Step2.pdf": "/static/media/2019Step2.bb534f034dedfcc8068f.pdf",
+    "static/media/2020Step2.pdf": "/static/media/2020Step2.ee712c94d5fde616f8f2.pdf",
+    "static/media/2021Step2.pdf": "/static/media/2021Step2.0a912ddf2cf956bfe675.pdf",
+    "static/media/gif-submit.gif": "/static/media/gif-submit.8592370a7c099585a0fb.gif",
+    "static/media/Group 940.png": "/static/media/Group 940.bf40a34603b6ade0aa42.png",
+    "static/media/congratss.png": "/static/media/congratss.ffd68b089652e269b82b.png",
+    "static/media/Standup.png": "/static/media/Standup.a9a8c74c20dadbd98d2f.png",
+    "static/media/logo-set.png": "/static/media/logo-set.7371e560305edb976761.png",
+    "static/media/Frame1.png": "/static/media/Frame1.6317edc1fe86ef0f4dac.png",
+    "static/media/Frame.png": "/static/media/Frame.a8db494f7bdcaf53aeaa.png",
+    "static/media/Tax_set.png": "/static/media/Tax_set.8a7eaeacfda66ea4025e.png",
+    "index.html": "/index.html",
+    "main.666ef79d.css.map": "/static/css/main.666ef79d.css.map",
+    "main.22b9c835.js.map": "/static/js/main.22b9c835.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.666ef79d.css",
+    "static/js/main.22b9c835.js"
+  ]
+}
